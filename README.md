@@ -9,7 +9,7 @@
 
 ---
 
-## How It Works
+## Cara kerja
 
 Metode dwtDct bekerja dalam dua lapisan transformasi frekuensi. Pertama, DWT (Discrete Wavelet Transform) memecah gambar menjadi sub-band frekuensi — memisahkan komponen kasar dan halus dari gambar. Kemudian DCT (Discrete Cosine Transform) diterapkan pada sub-band tersebut, menghasilkan koefisien frekuensi yang mirip dengan yang digunakan JPEG secara internal.
 
