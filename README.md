@@ -3,8 +3,6 @@
 ![Python](https://img.shields.io/badge/python-3.8%2B-blue?logo=python&logoColor=white)
 ![Method](https://img.shields.io/badge/method-dwtDct-orange)
 
-Proyek ini menyematkan *invisible watermark* ke dalam sebuah foto menggunakan metode **dwtDct**, lalu menguji seberapa kuat watermark tersebut bertahan saat foto dikompresi ulang dengan berbagai tingkat kualitas JPEG (QF 10–100).
-
 ---
 
 ## Demo
